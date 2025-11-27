@@ -1,21 +1,21 @@
-# 📌 Calculadora Científica em C
+# Calculadora Científica em C
 
 Este projeto é uma **Calculadora Científica completa**, desenvolvida em **Linguagem C**, capaz de realizar operações básicas, avançadas, funções trigonométricas, logaritmos, cálculos especiais e até operações com matrizes.  
 Também possui **histórico de operações**, registrando tudo o que o usuário faz.
 
 ---
 
-## 📚 Funcionalidades
+##  Funcionalidades
 
 A calculadora contém **24 tipos diferentes de operações**, incluindo:
 
-### 🧮 Operações Básicas
+###  Operações Básicas
 - Soma  
 - Subtração  
 - Multiplicação  
 - Divisão  
 
-### 📐 Funções Matemáticas Avançadas
+###  Funções Matemáticas Avançadas
 - Potência  
 - Raiz quadrada  
 - Logaritmo natural (ln)  
@@ -30,7 +30,7 @@ A calculadora contém **24 tipos diferentes de operações**, incluindo:
 - Cálculo da hipotenusa  
 - Área do círculo  
 
-### 🔢 Outras Funções
+###  Outras Funções
 - Fatorial  
 - Histórico de cálculos  
 - Soma de matrizes 3x3  
@@ -38,7 +38,7 @@ A calculadora contém **24 tipos diferentes de operações**, incluindo:
 
 ---
 
-## 🗂️ Estrutura do Código
+##  Estrutura do Código
 
 O programa é dividido em funções para melhorar organização:
 
@@ -51,16 +51,16 @@ O programa é dividido em funções para melhorar organização:
 
 ---
 
-## 🚀 Como Compilar e Executar
+##  Como Compilar e Executar
 
-### ✔️ 1. Compilar
+###  1. Compilar
 Se estiver usando **GCC**:
 gcc calculadora.c -o calculadora -lm
 
 **Observação:**  
 O `-lm` é necessário por causa das funções matemáticas da biblioteca `math.h`.
 
-### ✔️ 2. Executar
+###  2. Executar
 
 No Linux ou macOS:  
 ./calculadora
@@ -70,7 +70,7 @@ calculadora.exe
 
 ---
 
-## 🧪 Exemplo de Execução
+## Exemplo de Execução
 
 ## Menu principal:
 Soma
@@ -89,7 +89,7 @@ Resultado: 10.0000
 
 ---
 
-## 📝 Histórico de Cálculos
+##  Histórico de Cálculos
 
 A calculadora registra:
 
@@ -104,7 +104,7 @@ Seno: 90° = 1.0000
 
 ---
 
-## 🧑‍💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Linguagem C  
 - `stdio.h`, `math.h`, `stdlib.h`  
