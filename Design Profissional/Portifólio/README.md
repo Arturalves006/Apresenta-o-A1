@@ -1,7 +1,7 @@
 # Olá, eu sou Artur Alves
 
 ## Sobre mim
-"Motivado por desafios tecnológicos e pela criação de soluções práticas e eficientes."
+"Sou curioso e sempre aberto a novos aprendizados, especialmente quando se trata de tecnologia."
 
 ## Formação
 - Cursando Análise e Desenvolvimento de Sistemas.
