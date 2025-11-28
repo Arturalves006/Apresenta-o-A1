@@ -2,7 +2,7 @@
 
 # Bem-vindo(a)!
 
-Este repositório contém materiais explicativos sobre três disciplinas fundamentais da área de Tecnologia da Informação. O objetivo é apresentar conceitos básicos de forma clara, objetiva e organizada.
+Este repositório contém materiais explicativos sobre quatrodisciplinas fundamentais da área de Tecnologia da Informação. O objetivo é apresentar conceitos básicos de forma clara, objetiva e organizada.
 
 ---
 
